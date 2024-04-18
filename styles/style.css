@@ -206,7 +206,7 @@ nav a {
 
 .card:hover .content {
   top: 130px;
-  height: 250px;
+  height: 300px;
 }
 .card .read-more {
   background: linear-gradient(90deg, #3730a3, #2a7ae4);
