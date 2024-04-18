@@ -34,7 +34,7 @@ As tecnologias utilizadas neste projeto foram:
 
 - `CSS`: para estilizar o visual da página web
 
-- `Javascript`: para programar a lógica e a interatividade do jogo
+- `Javascript`: para programar a lógica de formularios
 
 - `DOM(Document Object Model)`: para manipular o HTML e o CSS usando o JavaScript
 <br><br>
